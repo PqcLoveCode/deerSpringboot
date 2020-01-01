@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * pqc v6
+ * pqc v7
  */
 public class IndexServlet extends HttpServlet {
 
